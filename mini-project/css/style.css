@@ -1,0 +1,32 @@
+.signupBody
+{
+    
+    background-image: url('../images/bodybg2.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:;
+}
+
+.signinBody
+{
+    
+    background-image: url('../images/bodybg3.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+.profileBody
+{
+    
+    background-image: url('../images/bodybg4.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
+
+.profilecontainer
+{
+    margin-top: 50px;
+    
+}
